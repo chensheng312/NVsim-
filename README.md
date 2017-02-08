@@ -1,4 +1,5 @@
-# NVsim- 
+# NVsim- copy form qguocs/NVSim
+
 
 NVSim - A performance, energy and area estimation tool
 for non-volatile memory (NVM)
